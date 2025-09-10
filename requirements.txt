@@ -9,5 +9,6 @@ prophet
 matplotlib
 ta
 textblob
+reportlab
 
 
