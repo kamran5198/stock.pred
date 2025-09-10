@@ -7,9 +7,8 @@ scikit-learn
 textblob
 tensorflow
 prophet
-langchain
-openai
 sqlite3
 matplotlib
 reportlab
 ta
+
