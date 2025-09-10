@@ -4,11 +4,9 @@ pandas
 numpy
 plotly
 scikit-learn
-textblob
 tensorflow
 prophet
-sqlite3
 matplotlib
-reportlab
 ta
+
 
