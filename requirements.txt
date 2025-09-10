@@ -10,5 +10,7 @@ matplotlib
 ta
 textblob
 reportlab
+sqlite3
+
 
 
